@@ -1,5 +1,5 @@
-projectKey=ios_demo_withObjC
+projectKey=ios_demo_withObjC2
 serverUrl=http://localhost:9000
-dashboardUrl=http://localhost:9000/dashboard/index/ios_demo_withObjC
-ceTaskId=AVm3Cu9NvYyjIuJUiXJT
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AVm3Cu9NvYyjIuJUiXJT
+dashboardUrl=http://localhost:9000/dashboard/index/ios_demo_withObjC2
+ceTaskId=AVm3DbyxvYyjIuJUiXJX
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AVm3DbyxvYyjIuJUiXJX
