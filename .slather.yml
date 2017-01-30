@@ -1,0 +1,6 @@
+input_format: profdata
+coverage_service: cobertura_xml
+output_directory: slather-report
+scheme: HelloWorld
+workspace: HelloWorld.xcworkspace
+xcodeproj: HelloWorld.xcodeproj
